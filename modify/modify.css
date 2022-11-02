@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+}
+
+ul a {
+  color: blueviolet;
+  font-size: 20px;
+}
+
+.bigOrange {
+  color: orange;
+  font-size: 50px;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}
